@@ -1,0 +1,5 @@
+speechrecognition
+gTTS
+pyttsx3
+requests
+openai
