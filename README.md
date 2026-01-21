@@ -44,7 +44,7 @@ Jarvis/
 ├── main.py           # Core logic: speech recognition, commands, AI responses
 ├── musicLibrary.py   # Dictionary mapping song names to YouTube URLs
 ├── README.md
-|-- requirements.txt
+├── requirements.txt
 ```
 
 ---
